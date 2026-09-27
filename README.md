@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MP Engineering College Seat & Fee Explorer
 
 Responsive counselling website for students exploring **B.Tech / engineering colleges in Madhya Pradesh** — IIT, NIT, IIIT, government, private, and AICTE-approved institutes.
@@ -49,3 +50,6 @@ Use **Data** page → upload JSON array of colleges. Each numeric field:
 ```
 
 Use `"value": null` when the official figure is not published.
+=======
+# career-explorer
+>>>>>>> ff0bd8feccc7ede4a91041ff66a4a6be0867bb1c
