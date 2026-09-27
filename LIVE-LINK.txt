@@ -1,0 +1,14 @@
+FutureRoute AI — Live links
+============================
+
+PERMANENT (Vercel — always online):
+https://future-route-ai.vercel.app
+
+LOCAL development:
+http://localhost:5173  (run: npm run dev)
+
+LOCAL production preview:
+http://localhost:4173  (run: npm run build && npx serve dist -l 4173)
+
+Vercel dashboard:
+https://vercel.com/pm099663-6455s-projects/future-route-ai
